@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ui-props/static/js/main.7cc0070b.js",
+    "index.html": "/ui-props/index.html",
+    "main.7cc0070b.js.map": "/ui-props/static/js/main.7cc0070b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7cc0070b.js"
+  ]
+}
