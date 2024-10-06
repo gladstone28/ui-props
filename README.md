@@ -1,4 +1,6 @@
+link to lessson:
 
+https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/pass-props-inter-component
 
 Props
 Pass props From Component To Component
