@@ -2,9 +2,10 @@ link to lessson:
 
 https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/pass-props-inter-component
 
-Props
-Pass props From Component To Component
-10 min
+### Props
+
+**Pass props From Component To Component**
+
 You have learned how to pass a prop to a component:
 
 <Greeting firstName="Esmerelda" />

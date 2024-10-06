@@ -1,14 +1,9 @@
 import React from 'react';
-import Greeting from './Greeting';
+import Player from './Player';
 
 function App() {
   return (
-    <div>
-      <h1>
-        MovieFlix
-      </h1>
-      <Greeting name="Alison" signedIn={true}/>
-    </div>
+    <Player songName="Let's Go to the Mall" artist="Robin Sparkles" />
   );
 }
 
